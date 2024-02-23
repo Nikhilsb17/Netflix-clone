@@ -1,1 +1,1 @@
-# Netflix-clone
+# Netflix-UI-clone 
